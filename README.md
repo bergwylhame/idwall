@@ -4,7 +4,7 @@ Aqui estão os desafios para a primeira fase de testes de candidatos da IDwall.
 A linguagem escolhida foi JAVA.
 
 <h2> Desafio Manipulação de Strings</h2>
-Para executar a solução desse desafio, basta rodar a classe idwall.desafio.Main. Ela já vai exibir o resultado do texto justificado e não justificado no console, dependendo da quantidade limit de caracteres por linha.
+Para executar a solução desse desafio, basta rodar a classe <i>idwall.desafio.Main</i>. Ela já vai exibir o resultado do texto justificado e não justificado no console, dependendo da quantidade limit de caracteres por linha.
 
 <h2> Desafio Crawlers</h2>
 Abaixo segue as instruções para execução do desafio do Crowler.
